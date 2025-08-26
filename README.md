@@ -49,6 +49,7 @@ my-devops-project/
 
 ## 🔹 Demo App Output
 When deployed successfully, the Flask app displays:
+**Hello from DevOps Pipeline!**
 
 
 ---
